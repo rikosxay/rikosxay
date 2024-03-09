@@ -7,6 +7,9 @@
   - [Title](Link)
 -->
 <h2>📜 Some Certifications:</h2>
+
+- <b>Mastercard Cybersecurity Certification</b>
+  - [Mastercard Report](https://github.com/rikosxay/MasterCard-Cysec-Certificate)
 <!--
 **<h2>📺 YouTube Videos</h2>**
 **- [Title](link)**
