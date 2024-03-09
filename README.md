@@ -6,10 +6,9 @@
 - <b>Project 1 Heading</b>
   - [Title](Link)
 -->
-
+<h2>📜 Some Certifications:</h2>
 <!--
 **<h2>📺 YouTube Videos</h2>**
-
 **- [Title](link)**
 **- [Title](link)**
 **- [Title](link)**
