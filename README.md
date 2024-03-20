@@ -2,15 +2,14 @@
 
 <h2>👨‍💻 Projects I have worked on:</h2>
 
+- <b>Microsoft Azure SIEM Project</b>
+  - [Azure Siem Report](https://github.com/rikosxay/azure-siem-project)
 <!--
 - <b>Project 1 Heading</b>
   - [Title](Link)
 -->
 <h2>📜 Some Certifications:</h2>
 
-- <b>Microsoft Azure SIEM Project</b>
-  - [Azure Siem Report](https://github.com/rikosxay/azure-siem-project)
-  <br/>  
 - <b>Mastercard Cybersecurity Certification</b>
   - [Mastercard Report](https://github.com/rikosxay/MasterCard-Cysec-Certificate)
 
