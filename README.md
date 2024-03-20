@@ -10,8 +10,7 @@
 
 - <b>Microsoft Azure SIEM Project</b>
   - [Azure Siem Report](https://github.com/rikosxay/azure-siem-project)
-  - <br/>
-  
+  <br/>  
 - <b>Mastercard Cybersecurity Certification</b>
   - [Mastercard Report](https://github.com/rikosxay/MasterCard-Cysec-Certificate)
 
