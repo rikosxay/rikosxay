@@ -9,7 +9,8 @@
 <h2>📜 Some Certifications:</h2>
 
 - <b>Microsoft Azure SIEM Project</b>
-  - [Azure Siem Report](https://github.com/rikosxay/azure-siem-project)<br/>
+  - [Azure Siem Report](https://github.com/rikosxay/azure-siem-project)
+  - <br/>
   
 - <b>Mastercard Cybersecurity Certification</b>
   - [Mastercard Report](https://github.com/rikosxay/MasterCard-Cysec-Certificate)
