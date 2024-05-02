@@ -10,6 +10,8 @@
 -->
 <h2>📜 Some Certifications:</h2>
 
+- <b>CompTIA Security+</b>
+  - [Security+ Certificate](https://www.credly.com/badges/ec3871ae-6399-4099-af3c-da73cb1d4085/public_url)
 - <b>Mastercard Cybersecurity Certification</b>
   - [Mastercard Report](https://github.com/rikosxay/MasterCard-Cysec-Certificate)
 
