@@ -4,6 +4,10 @@
 
 - <b>Microsoft Azure SIEM Project</b>
   - [Azure Siem Report](https://github.com/rikosxay/azure-siem-project)
+
+- <b>Siemens ICS Project</b>
+  - [Siemens ICS Report](https://github.com/rikosxay/Siemens-ICS-vuln)
+
 <!--
 - <b>Project 1 Heading</b>
   - [Title](Link)
